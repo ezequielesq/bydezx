@@ -18,7 +18,7 @@
 <!--Intro start-->
 - Actualmente soy **estudiante de Ingeniería en Informática** (3er año).
 - Interesado en **desarrollo de software** y **análisis de datos**.
-- Experiencia creando aplicaciones para **proyectos internos de DuocUC**.
+- Experiencia creando aplicaciones para el **Centro de Innovación Tecnológica e internos de DuocUC**.
 - Te invito a visitar mi LinkedIn: **www.linkedin.com/in/ezequielesq**
 - Programo en:
   - **Frontend:** Angular, HTML, CSS, SCSS, Bootstrap  
@@ -96,13 +96,13 @@ Plataforma web para visualización y procesamiento de imágenes satelitales GOES
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tech Stack 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Lo que se 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,scss,git,github,php,laravel,java,spring,mysql,postgres,ts,js,figma,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,scss,github,php,laravel,java,spring,mysql,js&perline=10" />
   </a>
 </p>
 
@@ -110,7 +110,7 @@ Plataforma web para visualización y procesamiento de imágenes satelitales GOES
 <!-- Connect with me -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect with me 🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contáctame 🤝</h2></summary>
   </ul>
 </div>
 
@@ -130,6 +130,4 @@ Plataforma web para visualización y procesamiento de imágenes satelitales GOES
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
 
