@@ -65,16 +65,26 @@ Plataforma web para visualización y procesamiento de imágenes satelitales GOES
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ezequielesq&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile" alt="Ezequiel streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielesq&theme=dark&hide_border=false" /> 
+  <!-- GitHub Stats (incluye repos privados) -->
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=ezequielesq&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
+
+  <br><br>
+
+  <!-- Streak Stats -->
+  <img title="🔥 Get streak stats for your profile" 
+       alt="Ezequiel streak" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielesq&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ezequielesq&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+  <!-- Most Used Languages (optimizado para Angular) -->
+  <img align="center"  
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielesq&theme=dark&layout=compact&count_private=true&hide=node_modules,dist,public&langs_count=10" />
+
+</td>
+
 </tr>
 </table>
 <!--- stats (end) -->
