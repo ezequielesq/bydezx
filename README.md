@@ -40,7 +40,7 @@ Aplicación de navegación indoor desarrollada con Angular, JavaScript y Leaflet
 Permite rutas por piso, búsqueda de salas y soporte para modo de emergencia.
 
 <div align="center">
-  <a href="https://www.ezsuarez.org/I-CORP/#/home/map" target="_blank">
+  <a href="https://www.ezsuarez.org/InMapi/#/home/map" target="_blank">
     <img src="https://img.shields.io/badge/Ver%20Proyecto-InMapi-blue?style=for-the-badge&logo=angular" />
   </a>
 </div>
